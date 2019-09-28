@@ -1,2 +1,2 @@
 first_number = (3)
-second_number = (0)
+second_number = "0"
