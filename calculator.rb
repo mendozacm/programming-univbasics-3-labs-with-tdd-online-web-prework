@@ -1,1 +1,1 @@
-first_number = "Integer"
+first_number = "3"
